@@ -22,6 +22,7 @@
 ### Girando la manopola del potenziometro verso destra l’intensità del LED aumenta, mentre girandola verso sinistra l’intensità diminuisce
 ## Istruzioni per l'uso
 ### - aprire il link del progetto
+### - fare l'accesso a tinkercad
 ### - premere su "modifica questo"
 ### - avviare la simulazione
 ## File progetto
