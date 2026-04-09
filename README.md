@@ -28,7 +28,7 @@
 ### potenziometro.cpp
 ### schema_circuito.txt
 ## Autore
-### Edoardo Santoni
+### Edoardo Santoni 4BI
 
 
 
