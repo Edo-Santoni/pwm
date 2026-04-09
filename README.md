@@ -1,24 +1,34 @@
-# PWM
+# PWM su un LED
 ## Descrizione 
-### Questo progetto utilizza un potenziometro per regolare l'intensità di un led
+### Questo progetto utilizza un potenziometro per regolare l'intensità di un LED
 ## Obiettivo
 ### gli obiettivi del progetto sono 
 ### - comprete il funzionamento del potenziometro
 ### - comprendere i pin analogici
 ## Componenti
 ### - arduino uno
-### - led
+### - LED
 ### -potenziometro
 ### - cavi per i collegamenti
 ### - breadboard
 ## Schema del progetto
 ### Lo schema del progetto è il seguente:
-### - catodo led  pin 9
-### - andodo led massa
+### - catodo LED  pin 9
+### - andodo LED massa
 ### - Pin centrale del potenziometro pin A0
 ### - Pin sinistro massa
 ### - Pin destro 5V di arduino
 ## Funzionamento
-### 
+### Girando la manopola del potenziometro verso destra l’intensità del LED aumenta, mentre girandola verso sinistra l’intensità diminuisce
+## Istruzioni per l'uso
+### - aprire il link del progetto
+### - avviare la simulazione
+## File progetto
+### README.md
+### potenziometro.cpp
+### schema_circuito.txt
+## Autore
+### Edoardo Santoni
+
 
 
