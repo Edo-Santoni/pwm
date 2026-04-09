@@ -26,9 +26,9 @@
 ## File progetto
 ### README.md
 ### potenziometro.cpp
-### schema_circuito.txt
+### schema_circuito.md
 ## Autore
-### Edoardo Santoni 4BI
+### Edoardo Santoni 4B Informatica
 
 
 
